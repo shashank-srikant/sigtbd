@@ -4,4 +4,4 @@
 
 ### `main.pdf` has our full paper
 
-### `slides.pdf` has the slides from our talk.
+### `slides.pdf` has slides from our talk.
